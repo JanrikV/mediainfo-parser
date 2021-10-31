@@ -76,8 +76,8 @@ Array
 (
     [general] => Array
         (
-            [file_name] => video.mp4
-            [format] => mpeg-4
+            [file_name] => Video
+            [format] => MPEG-4
             [file_size] => 337641472
             [duration] => 17 min 27 s
             [bit_rate] => 2577kb/s
@@ -87,16 +87,16 @@ Array
         (
             [0] => Array
                 (
-                    [format] => avc
+                    [format] => AVC
                     [codec] => avc1
                     [bit_rate] => 2440kb/s
                     [width] => 1920
-                    [anamorphic_width] =>
+                    [anamorphic_width] => 
                     [height] => 1080
-                    [anamorphic_height] =>
+                    [anamorphic_height] => 
                     [aspect_ratio] => 16:9
-                    [framerate_mode] => constant
-                    [frame_rate] => 30.000 fps
+                    [framerate_mode] => Constant
+                    [frame_rate] => 30.000 FPS
                     [bit_depth] => 8 bits
                     [bit_pixel_frame] => 0.039
                     [stream_size] => 319815680
@@ -110,8 +110,9 @@ Array
         (
             [0] => Array
                 (
-                    [format] => aac
-                    [format_profile] => lc
+                    [id] => 2
+                    [format] => AAC
+                    [format_profile] => LC
                     [codec] => 40
                     [bit_rate] => 128kb/s
                     [channels] => 2.0ch
@@ -120,6 +121,6 @@ Array
 
         )
 
-    [text] =>
+    [text] => 
 )
 **/
