@@ -68,7 +68,7 @@ Default                     : Yes
 Alternate group             : 1
 ';
 
-$data = $parser->parse($text);
+$data = $parser->parse($media_info);
 
 print_r($data);
 /**
