@@ -1,7 +1,7 @@
 # MediaInfo Parser
 Parse mediainfo text into PHP Array - I made a couple of small changes to fit my needs.
 
-[Original repo](https://github.com/bhutanio/mediainfo-parser) - Thanks to @abixalmon
+[Original repo](https://github.com/bhutanio/mediainfo-parser) - Thanks to [@abixalmon](https://github.com/abixalmon)
 
 
 
