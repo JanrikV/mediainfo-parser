@@ -7,7 +7,7 @@ Parse mediainfo text into PHP Array - I made a couple of small changes to fit my
 
 # Usage
 
-```
+```php
 <?php
 
 $parser = new MediaInfo();
@@ -71,6 +71,7 @@ Alternate group             : 1
 $data = $parser->parse($media_info);
 
 print_r($data);
+
 /**
 Array
 (
@@ -124,3 +125,5 @@ Array
     [text] => 
 )
 **/
+
+```
